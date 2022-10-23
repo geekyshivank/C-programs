@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <conio.h>
 int main()
 {
 	int x='A',y=65,z,a;
