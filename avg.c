@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <conio.h>
 int main()
 {
 	int mark[10];
@@ -11,5 +12,6 @@ int main()
 	sum=sum+mark[i];
 	float avg=(sum)/10.0;
 	printf("average of 10 marks=%f \n",avg);
+	getch();
 	return 0;
 }
