@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<string.h>
 int main()
 {
 int A[3][3],B[3][3],C[3][3],i,j;
